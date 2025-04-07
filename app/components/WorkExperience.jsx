@@ -1,6 +1,6 @@
 const timeLine = [
   {
-    year: '2023',
+    year: '2023c',
     exp: `Started working as a junior web developer, focusing on
         HTML, CSS, and JavaScript.`,
   },
