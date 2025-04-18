@@ -22,7 +22,7 @@ function HeroBanner() {
           interfaces. I turn complex problems into elegant digital
           solutions.
         </p>
-        <Link href="https://drive.google.com/file/d/1EVOp4kUpMFBbzSFeNdol_hcBU_6Tp76c/view?usp=drive_link" target='blank' className="w-48 btn-grad">
+        <Link href="https://drive.google.com/file/d/1YEYb2yU0Ffc7j14hk41qUAoFnquj07Bp/view?usp=sharing" target='blank' className="w-48 btn-grad">
           Checkout Resume
         </Link>
       </div>
