@@ -1,5 +1,12 @@
 export const projects = [
   {
+    title: 'Mock Interview Preparation App',
+    description: 'A sleek and interactive platform designed to help users prepare for technical interviews through mock interview sessions and real-time feedback.',
+    image: '/prepForger.jpg',
+    livePreview: 'https://mock-interview-prep-beta.vercel.app/',
+    githubLink: 'https://github.com/AbdullahSajid18/MockInterviewPrep',
+  },
+  {
     title: 'Apple iPhone Clone',
     description: 'Experience a sleek, user-friendly iPhone clone UI with familiar iOS-style icons, smooth animations, and intuitive navigation—all in a budget-friendly smartphone.',
     image: '/p2.jpg',
