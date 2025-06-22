@@ -1,6 +1,13 @@
 export const projects = [
   {
-    title: 'Mock Interview Preparation App',
+    title: 'University E-book Library',
+    description: 'A fully responsive and intuitive web application designed for university students to seamlessly browse, purchase, and manage digital e-books, featuring secure authentication and a streamlined user experience.',
+    image: '/E-bookLibrary.jpg',
+    livePreview: 'https://university-e-book-store.vercel.app',
+    githubLink: 'https://github.com/AbdullahSajid18/universityEBookStore',
+  },
+  {
+    title: 'PrepForge Interview Preparation App',
     description: 'A sleek and interactive platform designed to help users prepare for technical interviews through mock interview sessions and real-time feedback.',
     image: '/prepForge.jpg',
     livePreview: 'https://mock-interview-prep-beta.vercel.app/',
